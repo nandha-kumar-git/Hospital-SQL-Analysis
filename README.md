@@ -101,20 +101,21 @@ Hospital-SQL-Analysis/
 | `patients` | 1 ── * | `invoices` |
 
 ---
-## How to Run the Project
+### How to Run the Project
 
 1. Create a PostgreSQL database (recommended).
-2. Run the scripts **in order**:
+2. Run the scripts in order:
 
 ```sql
-\i "SQL Analysis/01_Database_Creation.sql"
-\i "SQL Analysis/02_Data_Cleaning.sql"
-\i "SQL Analysis/03_Adding_Constraints.sql"
-\i "SQL Analysis/04_Exploratory_Analysis.sql"
-\i "SQL Analysis/05_Business_Analysis.sql"
-\i "SQL Analysis/06_Advanced_SQL_Analysis.sql"
+\(\i\) "SQL Analysis/01_Database_Creation.sql"
+\(\i\) "SQL Analysis/02_Data_Cleaning.sql"
+\(\i\) "SQL Analysis/03_Adding_Constraints.sql"
+\(\i\) "SQL Analysis/04_Exploratory_Analysis.sql"
+\(\i\) "SQL Analysis/05_Business_Analysis.sql"
+\(\i\) "SQL Analysis/06_Advanced_SQL_Analysis.sql"
+```
 
-3.Import data from the files inside the data/ folder.
+3. Import data from the files inside the `data/` folder.
 
 ### Tools Used
 
