@@ -88,19 +88,19 @@ Hospital-SQL-Analysis/
 
 ### Main Relationships
 
-departments 1 ─── * doctors
-departments 1 ─── * staff
-insurance_providers 1 ─── * patients
-patients 1 ─── * appointments
-doctors 1 ─── * appointments
-appointments 1 ─── * treatments
-appointments 1 ─── * invoices
-patients 1 ─── * treatments
-patients 1 ─── * invoices
-
+| Source Table | Relationship | Target Table |
+| :--- | :---: | :--- |
+| `departments` | 1 ── * | `doctors` |
+| `departments` | 1 ── * | `staff` |
+| `insurance_providers` | 1 ── * | `patients` |
+| `patients` | 1 ── * | `appointments` |
+| `doctors` | 1 ── * | `appointments` |
+| `appointments` | 1 ── * | `treatments` |
+| `appointments` | 1 ── * | `invoices` |
+| `patients` | 1 ── * | `treatments` |
+| `patients` | 1 ── * | `invoices` |
 
 ---
-
 ## How to Run the Project
 
 1. Create a PostgreSQL database (recommended).
@@ -116,8 +116,8 @@ patients 1 ─── * invoices
 
 3.Import data from the files inside the data/ folder.
 
-## Tools Used
+### Tools Used
 
-1.PostgreSQL
-2.Excel (data source)
-3.Git & GitHub
+* **Database Engine:** PostgreSQL
+* **Data Prep & Source:** Microsoft Excel
+* **Version Control:** Git & GitHub
