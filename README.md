@@ -30,7 +30,9 @@ The dataset simulates a multi-department hospital with patients, doctors, staff,
 
 ---
 
-## Project Structure
+### Project Structure
+
+```text
 Hospital-SQL-Analysis/
 ├── data/
 │   ├── patients
@@ -41,7 +43,6 @@ Hospital-SQL-Analysis/
 │   ├── treatments
 │   ├── invoices
 │   └── insurance_providers
-│
 ├── SQL Analysis/
 │   ├── 01_Database_Creation.sql
 │   ├── 02_Data_Cleaning.sql
@@ -49,7 +50,6 @@ Hospital-SQL-Analysis/
 │   ├── 04_Exploratory_Analysis.sql
 │   ├── 05_Business_Analysis.sql
 │   └── 06_Advanced_SQL_Analysis.sql
-│
 ├── screenshots/
 │   ├── 01_Data_rows_count
 │   ├── 02_Gender_discrepancies_updated
@@ -66,11 +66,10 @@ Hospital-SQL-Analysis/
 │   ├── 13_Frequently_visiting_pts
 │   ├── 14_Dept_wise_revenue_ranking
 │   └── 15_Dept_wise_top_3_docs
-│
 ├── docs/
 │   └── ER_Diagram.png
-│
 └── README.md
+```
 
 
 
