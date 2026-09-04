@@ -45,7 +45,7 @@ Hospital-SQL-Analysis/
 |     └── 06_Advanced_SQL_Analysis.sql      
 ├── screenshots/                           
 │     └── 01_Data_rows_count
-│     └── 02_Gender discrepencies updated
+│     └── 02_Gender discrepancies updated
 │     └── 03_Status updated
 │     └── 04_Hospital master stat
 │     └── 05_Appointment status distribution
