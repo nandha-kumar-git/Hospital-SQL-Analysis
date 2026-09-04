@@ -87,10 +87,6 @@ Hospital-SQL-Analysis/
 
 ---
 
-## Entity-Relationship Diagram
-
-![ER Diagram](docs/ER_Diagram.png)
-
 ### Main Relationships
 
 departments 1 ─── * doctors
