@@ -24,3 +24,27 @@ The dataset simulates a multi-department hospital with patients, doctors, staff,
 - Doctors → Appointments (via department)
 - Patients → Insurance Providers
 - Staff / Doctors → Departments
+
+## Project Structure
+Hospital-SQL-Analysis/
+├── data/
+|     └── patients
+|     └── doctors
+|     └── staff
+|     └── departments
+|     └── appointments
+|     └── treatments
+|     └── invoices
+|     └── insurance_providers
+├── SQL Analysis/
+|     └── 01_Database_Creation.sql
+|     └── 02_Data_Cleaning.sql
+|     └── 03_Adding_Constraints.sql
+|     └── 04_Exploratory_Analysis.sql
+|     └── 05_Business_Analysis.sql
+|     └── 06_Advanced_SQL_Analysis.sql      
+├── screenshots/                           
+│   
+├── docs/
+│   └── ER_Diagram.png                      # Entity-Relationship diagram
+└── README.md
