@@ -121,7 +121,7 @@ patients 1 ─── * invoices
 
 3.Import data from the files inside the data/ folder.
 
-Tools Used
+## Tools Used
 
 1.PostgreSQL
 2.Excel (data source)
