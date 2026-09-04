@@ -1,0 +1,13 @@
+department_id,department_name,location,phone_ext,cost_center
+1,Cardiology,Tower A - Floor 3,3100,CC-CARD
+2,Neurology,Tower B - Floor 2,2200,CC-NEURO
+3,Orthopedics,Tower A - Floor 1,1100,CC-ORTHO
+4,Pediatrics,Tower C - Floor 1,4100,CC-PEDS
+5,Oncology,Tower B - Floor 4,2400,CC-ONCO
+6,Emergency,Main Building - Ground Floor,1000,CC-ED
+7,Radiology,Tower C - Floor 2,4200,CC-RAD
+8,Internal Medicine,Tower A - Floor 2,2100,CC-IM
+9,Gastroenterology,Tower B - Floor 1,2101,CC-GI
+10,Pulmonology,Tower A - Floor 4,3400,CC-PULM
+11,Obstetrics & Gynecology,Tower C - Floor 3,4300,CC-OBGYN
+12,Dermatology,Tower B - Floor 3,2300,CC-DERM

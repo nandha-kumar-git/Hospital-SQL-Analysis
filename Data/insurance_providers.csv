@@ -1,0 +1,11 @@
+insurance_id,provider_name,plan_type,contact_phone,network_status
+1,Daman,Thiqa / Enhanced,97126199999,In-Network
+2,ADNIC,Comprehensive,97124107700,In-Network
+3,Almadallah,Gold / Silver,97146058888,In-Network
+4,Neuron,Premium,97143122222,In-Network
+5,MedNet,Standard,97143600000,In-Network
+6,Orient Insurance,Family,97142111111,In-Network
+7,Nextcare,Basic / Enhanced,97146054444,In-Network
+8,NAS,Corporate,97144044444,In-Network
+9,AXA Gulf,International,97144051111,In-Network
+10,Self-Pay / Uninsured,None,,Out-of-Network

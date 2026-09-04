@@ -1,0 +1,451 @@
+staff_id,first_name,last_name,role,department_id,nationality,hire_date,shift,email,is_active
+3001,Riya,Shah,Receptionist,12,Indian,2020-04-07,Rotating,riyashah@yahoo.com,True
+3002,Maha,Al Shamsi,Registered Nurse,5,UAE,2021-03-16,Evening,maha_alshamsi@yahoo.com,True
+3003,Divya,Verma,Case Manager,5,Indian,2023-07-24,Rotating,divya_verma@hotmail.com,True
+3004,Kevin,Martin,Radiology Technician,9,American,2022-03-13,Evening,kevin.martin@ymail.com,True
+3005,Fatima,Garcia,Lab Technician,11,Other,2017-08-05,Day,fatima.garcia@outlook.com,True
+3006,Ritu,Verma,Patient Care Technician,1,Indian,2015-01-28,Night,ritu.verma@gmail.com,True
+3007,Fatima,Al Ali,Occupational Therapist,3,UAE,2016-03-14,Evening,fatimaalali@outlook.com,True
+3008,Nida,Ansari,Medical Assistant,6,Pakistani,2019-07-22,Night,nidaansari@yahoo.com,True
+3009,Noura,Al Ketbi,Physical Therapist,7,Other,2019-03-25,Night,noura.alketbi@protonmail.com,True
+3010,Saima,Hussain,Licensed Practical Nurse,4,Pakistani,2017-05-15,Evening,saima98@hotmail.com,True
+3011,Pooja,Al Shamsi,Radiology Technician,6,Other,2015-03-06,Evening,poojaalshamsi@ymail.com,True
+3012,Meera,Hassan,Pharmacy Technician,10,Other,2024-05-11,Rotating,meera96@yahoo.com,True
+3013,Dana,Al Tarawneh,Respiratory Therapist,1,Jordanian,2016-02-05,Night,,True
+3014,Fatima,Al Nuaimi,Billing Specialist,8,Other,2020-07-02,Day,fatima_alnuaimi@hotmail.com,True
+3015,Shereen,Nassar,Pharmacy Technician,12,Egyptian,2015-10-29,Day,shereen_nassar@protonmail.com,True
+3016,Dana,Al Nuaimi,Medical Assistant,1,UAE,2018-06-16,Night,dana.alnuaimi@outlook.com,True
+3017,Isha,Mehta,Receptionist,1,Indian,2016-01-03,Day,isha21@icloud.com,True
+3018,Robert,Williams,Medical Assistant,12,Other,2021-04-10,Evening,robert41@icloud.com,True
+3019,Manoj,Rao,Patient Care Technician,3,Indian,2015-09-17,Day,manoj_rao@yahoo.com,True
+3020,Hassan,Abdulla,Patient Care Technician,10,UAE,2021-11-30,Day,hassanabdulla@yahoo.com,True
+3021,Sana,Malhotra,Unit Coordinator,6,Indian,2019-10-30,Rotating,sana93@outlook.com,True
+3022,Rania,Saleh,Radiology Technician,7,Egyptian,2018-07-31,Day,rania_saleh@icloud.com,True
+3023,Prakash,Kapoor,Receptionist,10,Indian,2017-03-29,Night,prakashkapoor@protonmail.com,True
+3024,Zainab,Al Blooshi,Unit Coordinator,5,UAE,2024-04-27,Night,zainab_alblooshi@outlook.com,True
+3025,Zainab,Al Qubaisi,Physical Therapist,2,UAE,2020-01-14,Evening,zainab71@hotmail.com,True
+3026,Linda,Al Shamsi,Respiratory Therapist,12,Other,2024-02-10,Night,linda.alshamsi@gmail.com,True
+3027,Lovely,Reyes,Physical Therapist,6,Filipino,2023-12-06,Night,lovely.reyes@yahoo.com,True
+3028,Rania,Al Qudah,Unit Coordinator,6,Jordanian,2019-05-22,Night,rania96@protonmail.com,True
+3029,Vikram,Joshi,Occupational Therapist,2,Indian,2016-04-20,Rotating,vjoshi@yahoo.com,True
+3030,Nancy,Martin,Receptionist,8,British,2023-02-05,Night,nancy.martin@yahoo.com,True
+3031,Bassam,Abdullah,Receptionist,55,Jordanian,2023-12-22,Day,bassam41@outlook.com,True
+3032,Ananya,Iyer,Physical Therapist,11,Indian,2017-01-25,Day,ananya_iyer@hotmail.com,True
+3033,Bassem,Abdelrahman,Physical Therapist,1,Egyptian,2022-11-26,Day,bassem.abdelrahman@icloud.com,True
+3034,Naveen,Rashid,Unit Coordinator,2,Other,2017-12-10,Night,naveen72@protonmail.com,True
+3035,Kavita,Kapoor,Respiratory Therapist,8,Indian,2021-12-03,Day,kkapoor@icloud.com,True
+3036,Pedro,Lopez,Receptionist,3,Filipino,2019-03-10,Night,pedro_lopez@hotmail.com,True
+3037,Rania,Mahmoud,Radiology Technician,8,Egyptian,2018-03-29,Day,rania_mahmoud@icloud.com,True
+3038,Rahul,Nair,Physical Therapist,9,Indian,2020-09-01,Night,rahul_nair@hotmail.com,True
+3039,Nikhil,Sharma,Pharmacy Technician,5,Indian,2015-05-14,Day,nsharma@outlook.com,True
+3040,Rania,Ali,Receptionist,5,Egyptian,2023-09-10,Night,rania56@ymail.com,True
+3041,Susan,Hernandez,Receptionist,12,British,2024-04-22,Night,shernandez@ymail.com,False
+3042,Suresh,Shah,Receptionist,4,Indian,2017-05-09,Rotating,sshah@ymail.com,True
+3043,Antonio,Torres,Pharmacist,1,Filipino,2021-05-24,Day,antonio45@icloud.com,True
+3044,Rahul,White,Receptionist,3,Other,2023-05-31,Rotating,rwhite@ymail.com,True
+3045,Yousef,Hassan,Case Manager,4,Jordanian,2023-07-16,Rotating,yousef_hassan@outlook.com,True
+3046,Hala,Al Suwaidi,Medical Assistant,7,UAE,2020-10-12,Rotating,halsuwaidi@hotmail.com,False
+3047,Suresh,Shah,Respiratory Therapist,2,Indian,2023-12-04,Night,suresh_shah@ymail.com,True
+3048,Reem,Al Hashimi,Lab Technician,10,UAE,2024-07-23,Night,reem.alhashimi@gmail.com,True
+3049,Linda,Garcia,nurse,8,British,2015-01-03,Evening,lindagarcia@protonmail.com,True
+3050,Anil,Al Ketbi,Respiratory Therapist,5,Other,2015-12-04,Day,anilalketbi@gmail.com,True
+3051,Divya,Mehta,Medical Assistant,12,Indian,2016-01-25,Day,divya.mehta@outlook.com,True
+3052,Ayesha,Qureshi,Receptionist,7,Pakistani,2022-10-13,Day,ayeshaqureshi@hotmail.com,True
+3053,Anthony,Martinez,Lab Technician,7,American,2023-09-04,Rotating,anthonymartinez@gmail.com,True
+3054,Hala,Al Ketbi,Pharmacist,11,UAE,2023-05-23,Day,hala62@protonmail.com,True
+3055,Noura,Saeed,Receptionist,10,UAE,2023-03-10,Day,nsaeed@ymail.com,True
+3056,Sami,Al Nahyan,Administrative Assistant,12,UAE,2015-04-20,Rotating,salnahyan@outlook.com,True
+3057,Rabia,Ahmed,Pharmacy Technician,8,Pakistani,2019-04-30,Day,rabia73@gmail.com,True
+3058,Aisha,Al Ali,Physical Therapist,10,Other,2019-09-20,Day,aishaalali@ymail.com,True
+3059,Youssef,Al Mazrouei,Billing Specialist,4,Other,2015-06-13,Evening,youssef60@yahoo.com,True
+3060,Nadia,Ali,Lab Technician,5,Pakistani,2015-12-09,Day,nadiaali@ymail.com,True
+3061,Sunita,Joshi,Occupational Therapist,12,Indian,2024-06-29,Day,sunita.joshi@hotmail.com,True
+3062,Karim,Ali,Registered Nurse,12,Egyptian,2016-07-16,Rotating,karim_ali@yahoo.com,True
+3063,Barbara,Taylor,Lab Technician,12,British,2023-10-05,Evening,barbara.taylor@yahoo.com,True
+3064,Jamal,Al Maktoum,Medical Assistant,8,UAE,2020-02-08,Night,jamal_almaktoum@ymail.com,True
+3065,Vikram,Ahmed,Receptionist,4,Indian,2023-04-23,Night,vikram.ahmed@outlook.com,True
+3066,Pooja,Patel,Occupational Therapist,4,Indian,2018-08-11,Day,ppatel@ymail.com,True
+3067,Anjali,Reddy,Pharmacy Technician,9,Indian,2015-07-08,Evening,anjali_reddy@ymail.com,True
+3068,Christopher,Al Mazrouei,Respiratory Therapist,4,Other,2018-04-09,Night,christopher48@outlook.com,True
+3069,Dina,Kamal,Lab Technician,1,Egyptian,2019-08-07,Day,dkamal@protonmail.com,True
+3070,Fatima,Johnson,Administrative Assistant,2,Other,2017-04-20,Night,fatima_johnson@hotmail.com,False
+3071,Anil,Al Ketbi,Licensed Practical Nurse,4,Other,2024-06-25,Night,aalketbi@hotmail.com,False
+3072,Khalid,Hassan,Physical Therapist,2,UAE,2021-08-21,Night,khalidhassan@outlook.com,True
+3073,Mary,Shah,Case Manager,8,Other,2018-01-18,Day,maryshah@ymail.com,True
+3074,Majid,Al Muhairi,Case Manager,7,UAE,2016-05-09,Night,majid_almuhairi@yahoo.com,True
+3075,Deepak,Al Kaabi,Pharmacist,6,Other,2016-08-30,Day,dalkaabi@hotmail.com,True
+3076,Rafael,Santos,Physical Therapist,8,Filipino,2021-03-27,Rotating,rafael.santos@hotmail.com,True
+3077,John,Davis,Lab Technician,4,American,2024-03-27,Day,john.davis@icloud.com,True
+3078,Youssef,Rashid,Unit Coordinator,3,Other,2016-01-12,Evening,youssef.rashid@gmail.com,False
+3079,Rania,Mohammed,Physical Therapist,8,UAE,2015-05-01,Day,raniamohammed@yahoo.com,True
+3080,Hani,Al Shamsi,Licensed Practical Nurse,10,UAE,2021-12-11,Night,halshamsi@hotmail.com,True
+3081,Hossam,Said,Lab Technician,7,Egyptian,2017-03-27,Night,hossamsaid@protonmail.com,False
+3082,Tariq,Siddiqui,Patient Care Technician,9,Pakistani,2023-10-06,Night,tariq82@yahoo.com,True
+3083,Hassan,Al Mansouri,Billing Specialist,1,UAE,2024-01-26,Evening,halmansouri@ymail.com,True
+3084,Hassan,Ahmed,Pharmacy Technician,5,UAE,2020-12-25,Rotating,hassanahmed@icloud.com,True
+3085,Barbara,Garcia,Pharmacy Technician,10,American,2018-07-26,Rotating,bgarcia@icloud.com,True
+3086,Rania,Al Nasser,Pharmacist,8,Jordanian,2021-01-29,Day,rania.alnasser@gmail.com,True
+3087,Nader,Hassan,Case Manager,10,Egyptian,2017-04-05,Rotating,naderhassan@ymail.com,True
+3088,Nikhil,Gupta,Receptionist,9,Indian,2019-02-03,Evening,nikhil_gupta@icloud.com,True
+3089,Anil,Mehta,Patient Care Technician,11,Indian,2018-07-23,Day,anil81@ymail.com,True
+3090,Mary,Lopez,Administrative Assistant,3,Filipino,2016-12-28,Rotating,mary99@hotmail.com,True
+3091,Barbara,Harris,Case Manager,10,British,2017-06-23,Night,barbara_harris@outlook.com,True
+3092,Saeed,Al Kaabi,Medical Assistant,12,UAE,2022-07-07,Night,saeed_alkaabi@gmail.com,True
+3093,Youssef,Rashid,Receptionist,12,UAE,2015-01-06,Day,youssef_rashid@outlook.com,True
+3094,Mahnoor,Ansari,Receptionist,8,Pakistani,2023-11-05,Evening,mahnooransari@outlook.com,True
+3095,James,Anderson,Billing Specialist,2,American,2015-10-31,Day,jamesanderson@protonmail.com,True
+3096,Zara,Moore,Registered Nurse,7,Other,2022-05-01,Day,zaramoore@gmail.com,True
+3097,Jamal,Al Hashimi,Billing Specialist,11,UAE,2018-02-27,Day,jamal.alhashimi@hotmail.com,True
+3098,Rohit,Al Mansouri,Occupational Therapist,2,Other,2018-04-21,Rotating,rohit90@hotmail.com,True
+3099,Abdullah,Al Suwaidi,Patient Care Technician,2,UAE,2018-06-17,Rotating,abdullah_alsuwaidi@protonmail.com,True
+3100,Jennifer,Fernandez,Respiratory Therapist,3,Filipino,2019-12-31,Day,jennifer_fernandez@yahoo.com,True
+3101,Walid,Khalifa,Receptionist,2,UAE,2022-06-29,Day,walid_khalifa@ymail.com,True
+3102,Huda,Abdelrahman,Patient Care Technician,10,Egyptian,2017-08-23,Night,huda_abdelrahman@ymail.com,True
+3103,Alishba,Malik,Receptionist,8,Pakistani,2016-12-09,Evening,alishbamalik@ymail.com,True
+3104,Mustafa,Al Qubaisi,Pharmacist,11,UAE,2016-08-28,Rotating,malqubaisi@protonmail.com,True
+3105,Lina,Al Hashimi,Case Manager,5,UAE,2020-10-29,Night,lina11@icloud.com,True
+3106,Neha,Ahmed,Receptionist,2,Indian,2021-04-23,Rotating,neha46@yahoo.com,True
+3107,Salma,Al Nahyan,Patient Care Technician,1,UAE,2016-12-06,Day,salma28@icloud.com,True
+3108,Aisha,Iyer,Licensed Practical Nurse,12,Indian,2020-04-30,Evening,aisha.iyer@yahoo.com,True
+3109,Vishal,Kumar,Pharmacy Technician,3,Indian,2018-05-15,Evening,vkumar@yahoo.com,True
+3110,Samir,Youssef,Occupational Therapist,12,Egyptian,2020-06-07,Rotating,samir.youssef@icloud.com,True
+3111,Lina,Al Shamsi,Registered Nurse,3,UAE,2017-02-28,Evening,lina.alshamsi@outlook.com,True
+3112,Latifa,Al Hosani,Respiratory Therapist,8,UAE,2020-08-30,Day,latifa.alhosani@outlook.com,True
+3113,Nader,Mostafa,Respiratory Therapist,3,Egyptian,2024-05-24,Evening,nader.mostafa@yahoo.com,True
+3114,Shamsa,Al Blooshi,Pharmacy Technician,11,UAE,2017-07-11,Night,shamsa_alblooshi@icloud.com,True
+3115,Mary,Martin,Lab Technician,11,British,2016-12-10,Night,marymartin@yahoo.com,True
+3116,Pooja,Davis,Physical Therapist,6,Other,2020-02-24,Day,pdavis@protonmail.com,True
+3117,Fatma,Mostafa,Administrative Assistant,5,Egyptian,2022-09-04,Day,fmostafa@yahoo.com,True
+3118,Deepak,Saeed,Lab Technician,9,Other,2023-08-02,Day,deepak17@hotmail.com,True
+3119,Faith,Lopez,Billing Specialist,7,Filipino,2019-07-16,Day,faith14@protonmail.com,False
+3120,Thomas,Thompson,Patient Care Technician,11,American,2019-01-08,Night,thomas31@outlook.com,True
+3121,Mahnoor,Raza,Case Manager,11,Pakistani,2016-01-01,Day,mraza@hotmail.com,True
+3122,Manoj,Shah,Receptionist,8,Indian,2015-08-08,Evening,manoj84@icloud.com,True
+3123,Swati,Kapoor,Occupational Therapist,1,Other,2024-07-30,Day,skapoor@hotmail.com,False
+3124,Salma,Mehta,Radiology Technician,2,Other,2020-06-20,Day,smehta@protonmail.com,True
+3125,Anil,Ahmed,Radiology Technician,8,Indian,2023-10-22,Rotating,anilahmed@icloud.com,True
+3126,Riya,Chopra,Registered Nurse,1,Indian,2020-12-26,Day,riya.chopra@yahoo.com,True
+3127,Ali,Butt,Pharmacy Technician,12,Pakistani,2018-11-11,Day,ali_butt@icloud.com,True
+3128,Moza,Al Marri,Unit Coordinator,12,UAE,2020-11-01,Night,moza_almarri@protonmail.com,False
+3129,Fatima,Nair,Radiology Technician,7,Indian,2015-03-20,Day,fatimanair@protonmail.com,True
+3130,Hassan,Ansari,Billing Specialist,9,Pakistani,2021-12-27,Day,hassan.ansari@protonmail.com,True
+3131,Majid,Al Falasi,Receptionist,9,UAE,2017-11-01,Night,majidalfalasi@protonmail.com,True
+3132,Sara,Ahmed,Billing Specialist,10,UAE,2021-10-16,Rotating,sara.ahmed@icloud.com,True
+3133,Omar,Al Shehhi,Pharmacist,10,UAE,2017-03-29,Rotating,omaralshehhi@yahoo.com,True
+3134,Vishal,Nair,Patient Care Technician,6,Indian,2017-08-18,Day,vishal.nair@gmail.com,True
+3135,Miguel,Morales,Medical Assistant,12,Filipino,2023-02-11,Day,miguelmorales@hotmail.com,False
+3136,Kavita,Reddy,Licensed Practical Nurse,5,Indian,2019-01-15,Rotating,kavita_reddy@protonmail.com,True
+3137,Aisha,Al Hashimi,Radiology Technician,6,Other,2019-01-04,Evening,aalhashimi@protonmail.com,True
+3138,Mark,Thomas,Unit Coordinator,5,American,2024-05-16,Day,mark_thomas@protonmail.com,True
+3139,Adel,Al Mazrouei,Radiology Technician,2,UAE,2019-09-01,Evening,adel71@protonmail.com,True
+3140,Shereen,Hassan,Lab Technician,8,Egyptian,2020-06-22,Day,shereen_hassan@gmail.com,True
+3141,Paul,Diaz,Pharmacy Technician,11,Filipino,2018-10-17,Night,paul98@gmail.com,True
+3142,Salma,Al Nasser,Licensed Practical Nurse,1,Jordanian,2022-03-20,Evening,salma_alnasser@ymail.com,True
+3143,Reem,Al Zaabi,Case Manager,5,UAE,2015-07-26,Night,reem_alzaabi@hotmail.com,True
+3144,Salma,Al Muhairi,Medical Assistant,8,UAE,2020-01-06,Day,salma.almuhairi@gmail.com,True
+3145,Hind,Al Suwaidi,Administrative Assistant,9,UAE,2021-04-22,Day,hind_alsuwaidi@yahoo.com,True
+3146,Majid,Al Dhaheri,Patient Care Technician,12,UAE,2022-05-15,Day,majid.aldhaheri@gmail.com,True
+3147,Ziad,Hassan,Administrative Assistant,9,UAE,2020-11-08,Day,ziad.hassan@outlook.com,True
+3148,Jennifer,Al Qubaisi,Billing Specialist,10,Other,2017-03-13,Day,jenniferalqubaisi@hotmail.com,True
+3149,Walid,Al Qubaisi,Licensed Practical Nurse,11,UAE,2024-05-23,Night,walid_alqubaisi@hotmail.com,True
+3150,Paul,Al Mansouri,Licensed Practical Nurse,9,Other,2019-11-08,Rotating,paul71@ymail.com,False
+3151,Maha,Mohammed,Lab Technician,2,UAE,2019-05-06,Night,mmohammed@icloud.com,True
+3152,Divya,Rao,Physical Therapist,6,Indian,2018-04-19,Night,divyarao@hotmail.com,True
+3153,Aisha,Sharma,Pharmacist,4,Other,2021-12-31,Rotating,asharma@protonmail.com,True
+3154,Sara,Al Tarawneh,Case Manager,12,Jordanian,2016-04-17,Rotating,sara_altarawneh@icloud.com,True
+3155,Angel,Lopez,Occupational Therapist,1,Filipino,2020-11-11,Day,angellopez@gmail.com,True
+3156,Hessa,Al Marri,Billing Specialist,3,UAE,2024-05-31,Day,hessaalmarri@ymail.com,True
+3157,Ritu,Ali,Pharmacy Technician,12,Indian,2022-04-04,Night,ritu40@ymail.com,True
+3158,Ana,Fernandez,Physical Therapist,7,Filipino,2023-11-03,Evening,ana50@gmail.com,True
+3159,Shamsa,Al Muhairi,Pharmacy Technician,11,UAE,2022-11-26,Rotating,shamsa57@icloud.com,True
+3160,Latifa,Al Marri,Unit Coordinator,3,UAE,2022-08-28,Day,latifa32@gmail.com,True
+3161,Neha,Reddy,Billing Specialist,1,Indian,2018-09-15,Night,neha.reddy@outlook.com,False
+3162,Shereen,Nassar,Patient Care Technician,10,Egyptian,2021-03-03,Day,shereen50@outlook.com,False
+3163,Zainab,Chaudhry,Physical Therapist,2,Pakistani,2018-12-02,Day,zchaudhry@yahoo.com,True
+3164,Yasmin,Al Shehhi,Registered Nurse,2,UAE,2022-07-02,Day,yasmin40@icloud.com,True
+3165,Lina,Rashid,Receptionist,7,UAE,2017-11-16,Night,lina.rashid@icloud.com,True
+3166,Ananya,Verma,Licensed Practical Nurse,5,Indian,2022-04-22,Day,ananya.verma@gmail.com,True
+3167,Fatima,Al Hosani,Pharmacist,11,Other,2022-01-22,Rotating,fatima_alhosani@ymail.com,True
+3168,Samina,Ali,Lab Technician,1,Pakistani,2020-02-24,Rotating,samina.ali@gmail.com,True
+3169,Donna,Davis,Billing Specialist,7,American,2019-05-09,Night,donna_davis@yahoo.com,True
+3170,Lovely,Cruz,Licensed Practical Nurse,12,Filipino,2024-07-06,Day,lovely.cruz@yahoo.com,True
+3171,Sandeep,Chopra,Physical Therapist,11,Indian,2015-05-07,Night,sandeepchopra@outlook.com,True
+3172,Karen,Jones,Administrative Assistant,11,American,2023-12-01,Evening,kjones@gmail.com,True
+3173,Mohamed,Said,Medical Assistant,5,Egyptian,2017-05-10,Rotating,mohamedsaid@hotmail.com,True
+3174,Adel,Patel,Billing Specialist,4,Other,2016-04-14,Day,adel.patel@ymail.com,True
+3175,Moza,Malhotra,Medical Assistant,5,Other,2016-02-07,Day,moza_malhotra@yahoo.com,True
+3176,John,Cruz,Pharmacist,6,Filipino,2020-06-13,Night,jcruz@protonmail.com,True
+3177,Mona,Abdelrahman,Radiology Technician,1,Egyptian,2018-07-06,Day,mona_abdelrahman@yahoo.com,True
+3178,Muna,Al Shehhi,Unit Coordinator,8,UAE,2019-01-09,Rotating,muna72@gmail.com,True
+3179,Sara,Youssef,Billing Specialist,12,Egyptian,2022-01-10,Day,sara.youssef@ymail.com,True
+3180,Lina,Saeed,Pharmacist,1,UAE,2021-03-09,Day,lina_saeed@protonmail.com,True
+3181,Nikhil,Joshi,Lab Technician,8,Indian,2020-08-14,Night,njoshi@icloud.com,True
+3182,Huda,Ahmed,Radiology Technician,9,UAE,2016-07-28,Night,huda32@icloud.com,True
+3183,Nancy,Ahmed,Licensed Practical Nurse,4,Other,2023-07-16,Night,nahmed@yahoo.com,True
+3184,Jennifer,Fernandez,Patient Care Technician,8,Filipino,2015-07-10,Day,jfernandez@gmail.com,True
+3185,Nida,Baig,Radiology Technician,7,Pakistani,2022-05-01,Day,nida.baig@icloud.com,True
+3186,John,Ahmed,Respiratory Therapist,8,Other,2023-11-21,Night,john.ahmed@icloud.com,True
+3187,Rohit,Rao,Pharmacist,3,Indian,2017-02-04,Day,rohit.rao@protonmail.com,True
+3188,Ashley,Martin,Patient Care Technician,4,American,2021-08-16,Day,ashley.martin@outlook.com,True
+3189,Wael,Ahmed,Lab Technician,1,Egyptian,2016-11-12,Day,wael33@hotmail.com,True
+3190,Sherif,Mohamed,Pharmacist,8,Egyptian,2021-10-20,Evening,sherifmohamed@outlook.com,True
+3191,Hana,Farouk,Radiology Technician,12,Egyptian,2022-09-09,Day,hana68@icloud.com,True
+3192,Rajesh,Nair,Occupational Therapist,3,Indian,2021-10-16,Day,rajesh70@icloud.com,True
+3193,Linda,Williams,Patient Care Technician,11,British,2016-06-17,Evening,linda.williams@ymail.com,True
+3194,Anjali,Khan,Occupational Therapist,4,Indian,2023-12-31,Night,akhan@icloud.com,True
+3195,Lina,Davis,Lab Technician,5,Other,2020-05-08,Rotating,ldavis@icloud.com,True
+3196,Rajesh,Ahmed,Receptionist,9,Indian,2015-01-30,Day,rahmed@hotmail.com,True
+3197,Shaikha,Al Hosani,Occupational Therapist,10,UAE,2019-02-06,Night,shaikha_alhosani@ymail.com,True
+3198,Hana,Mostafa,Patient Care Technician,5,Egyptian,2018-06-10,Night,hanamostafa@ymail.com,True
+3199,Rami,Khalifa,Radiology Technician,2,UAE,2017-05-28,Night,rami53@icloud.com,True
+3200,Ahmad,Ahmad,Medical Assistant,3,Jordanian,2020-04-15,Evening,ahmad.ahmad@gmail.com,True
+3201,Sana,Chopra,Administrative Assistant,12,Indian,2021-09-13,Day,sana_chopra@hotmail.com,True
+3202,Kimberly,Joshi,Pharmacist,1,Other,2023-10-17,Night,kimberlyjoshi@icloud.com,True
+3203,Mohammed,Al Kaabi,Medical Assistant,5,UAE,2023-09-29,Day,mohammed_alkaabi@hotmail.com,True
+3204,Sana,Ali,Administrative Assistant,12,Pakistani,2024-04-21,Night,sali@yahoo.com,False
+3205,Latifa,Al Muhairi,Physical Therapist,10,UAE,2015-01-20,Day,latifa62@gmail.com,True
+3206,Bilal,Aslam,Billing Specialist,9,Pakistani,2024-02-13,Rotating,bilal_aslam@hotmail.com,True
+3207,Sandra,Moore,Registered Nurse,8,British,2016-04-21,Day,sandramoore@protonmail.com,True
+3208,Nancy,Jackson,Registered Nurse,12,American,2024-05-01,Day,nancy.jackson@hotmail.com,True
+3209,Jamal,Hernandez,Case Manager,6,Other,2017-06-14,Evening,jamalhernandez@protonmail.com,True
+3210,Alia,Kumar,Pharmacy Technician,5,Other,2017-04-26,Day,alia41@yahoo.com,True
+3211,Khadija,Ahmed,Patient Care Technician,10,UAE,2015-01-28,Rotating,khadija.ahmed@ymail.com,True
+3212,Mai,Farouk,Patient Care Technician,3,Egyptian,2023-07-28,Evening,mai_farouk@outlook.com,True
+3213,Rania,Al Shehhi,Licensed Practical Nurse,9,UAE,2018-11-23,Day,raniaalshehhi@hotmail.com,False
+3214,Maria,Santos,Pharmacist,7,Filipino,2021-07-07,Day,maria56@ymail.com,True
+3215,Kamran,Qureshi,Respiratory Therapist,3,Pakistani,2020-08-04,Night,kqureshi@yahoo.com,True
+3216,Khalid,Al Maktoum,Pharmacy Technician,2,UAE,2023-01-31,Day,khalid40@hotmail.com,True
+3217,Maha,Al Shamsi,Patient Care Technician,1,UAE,2016-12-24,Night,maha27@icloud.com,True
+3218,Kevin,White,Licensed Practical Nurse,7,British,2016-02-10,Night,kevinwhite@ymail.com,True
+3219,Prakash,Nair,Respiratory Therapist,6,Other,2021-04-14,Night,pnair@gmail.com,True
+3220,Ritu,Nair,Radiology Technician,5,Indian,2018-12-25,Day,ritu_nair@ymail.com,True
+3221,Sneha,Thomas,Lab Technician,3,Other,2022-03-08,Rotating,sneha_thomas@protonmail.com,True
+3222,Sunita,Reddy,Case Manager,4,Indian,2018-07-08,Day,sreddy@icloud.com,True
+3223,Jawaher,Al Ketbi,Unit Coordinator,7,UAE,2016-11-16,Day,jawaheralketbi@protonmail.com,True
+3224,Maha,Al Suwaidi,Pharmacist,3,UAE,2019-06-15,Day,maha_alsuwaidi@icloud.com,True
+3225,Jennifer,Brown,Billing Specialist,10,British,2016-09-28,Day,jbrown@outlook.com,True
+3226,Neha,Khan,Radiology Technician,1,Indian,2015-05-24,Night,neha_khan@hotmail.com,False
+3227,Nadeem,Malik,Radiology Technician,10,Pakistani,2021-09-13,Night,nadeem91@hotmail.com,True
+3228,Michael,Ramirez,Pharmacy Technician,2,Filipino,2019-12-15,Day,mramirez@outlook.com,True
+3229,Jawaher,Al Shamsi,Respiratory Therapist,5,UAE,2020-04-05,Night,jawaher_alshamsi@ymail.com,True
+3230,Moza,Al Nahyan,Pharmacy Technician,1,UAE,2021-02-23,Day,moza62@hotmail.com,True
+3231,Lina,Mohammed,Physical Therapist,4,UAE,2017-12-13,Day,linamohammed@icloud.com,True
+3232,Neha,Joshi,Billing Specialist,7,Other,2017-02-09,Evening,nehajoshi@yahoo.com,True
+3233,Ritu,Verma,Pharmacist,6,Indian,2015-03-21,Day,ritu.verma@outlook.com,False
+3234,Sandeep,Sharma,Pharmacy Technician,2,Indian,2016-09-09,Day,ssharma@hotmail.com,True
+3235,Sandra,Johnson,Case Manager,2,American,2024-06-17,Rotating,sandra.johnson@yahoo.com,True
+3236,Latifa,Mohammed,Billing Specialist,7,UAE,2024-04-15,Day,latifa_mohammed@ymail.com,False
+3237,Latifa,Al Muhairi,Receptionist,9,UAE,2022-06-20,Evening,latifa_almuhairi@protonmail.com,False
+3238,Sultan,Harris,Receptionist,5,Other,2020-05-25,Night,sharris@gmail.com,True
+3239,Ibrahim,Al Qubaisi,Case Manager,1,UAE,2016-11-16,Rotating,ibrahim.alqubaisi@hotmail.com,True
+3240,Rami,Khalifa,Patient Care Technician,12,UAE,2021-09-08,Day,ramikhalifa@outlook.com,True
+3241,Jose,Reyes,Respiratory Therapist,11,Filipino,2016-09-22,Rotating,josereyes@hotmail.com,True
+3242,Ananya,Martinez,Pharmacist,1,Other,2022-09-24,Day,amartinez@gmail.com,True
+3243,Vishal,Nair,Radiology Technician,9,Indian,2018-11-25,Day,vnair@ymail.com,True
+3244,Shaikha,Al Nahyan,Unit Coordinator,5,Other,2024-03-10,Day,shaikha_alnahyan@gmail.com,True
+3245,Ayesha,Siddiqui,Pharmacy Technician,6,Pakistani,2023-02-01,Day,ayesha_siddiqui@outlook.com,True
+3246,Hina,Mirza,Case Manager,7,Pakistani,2022-03-10,Day,hina22@protonmail.com,True
+3247,Khalid,Rashid,Receptionist,8,Other,2017-02-23,Day,khalid_rashid@protonmail.com,True
+3248,Aisha,Mostafa,Pharmacy Technician,10,Egyptian,2023-01-19,Day,aisha_mostafa@ymail.com,True
+3249,Kevin,Hernandez,Respiratory Therapist,12,American,2015-08-27,Rotating,kevin44@gmail.com,True
+3250,Bassam,Harris,Receptionist,2,Other,2023-02-18,Day,bassamharris@outlook.com,True
+3251,Hessa,Al Hashimi,Occupational Therapist,12,UAE,2016-03-08,Rotating,halhashimi@protonmail.com,True
+3252,Sofia,Mendoza,Physical Therapist,9,Filipino,2018-10-14,Night,sofia78@hotmail.com,False
+3253,Fatima,Smith,Occupational Therapist,11,Other,2019-10-30,Rotating,fatima51@outlook.com,True
+3254,Safiya,Abdulla,Billing Specialist,6,UAE,2020-01-28,Night,safiya.abdulla@protonmail.com,True
+3255,Rahul,Joshi,Registered Nurse,5,Indian,2017-06-27,Day,rahul.joshi@ymail.com,True
+3256,David,Morales,Lab Technician,2,Filipino,2015-06-04,Night,davidmorales@yahoo.com,True
+3257,Sherif,Mohamed,Physical Therapist,10,Egyptian,2017-06-09,Rotating,sherif_mohamed@outlook.com,True
+3258,Lina,Kapoor,Licensed Practical Nurse,12,Other,2024-01-24,Night,lina.kapoor@ymail.com,True
+3259,Noor,Singh,Registered Nurse,11,Other,2023-09-20,Night,nsingh@icloud.com,True
+3260,Waqas,Butt,Lab Technician,1,Pakistani,2022-07-22,Rotating,waqas_butt@ymail.com,True
+3261,Saad,Ansari,Lab Technician,3,Pakistani,2018-10-08,Day,saad.ansari@icloud.com,True
+3262,Shamsa,Khalifa,Lab Technician,3,UAE,2020-05-23,Night,shamsa_khalifa@protonmail.com,True
+3263,Huda,Kamal,Pharmacy Technician,2,Egyptian,2017-12-26,Rotating,huda51@gmail.com,True
+3264,Sneha,Malhotra,Respiratory Therapist,10,Indian,2022-05-08,Day,snehamalhotra@yahoo.com,True
+3265,Salma,Martinez,Licensed Practical Nurse,4,Other,2017-03-28,Night,salma.martinez@gmail.com,True
+3266,Noura,Mohammed,Administrative Assistant,1,UAE,2018-11-07,Night,nmohammed@hotmail.com,True
+3267,Sneha,Nair,Billing Specialist,9,Indian,2020-06-01,Night,sneha.nair@hotmail.com,True
+3268,Rafael,Reyes,Administrative Assistant,4,Filipino,2023-11-07,Night,rafael.reyes@hotmail.com,True
+3269,Shaikha,Ahmed,Respiratory Therapist,2,UAE,2015-03-20,Day,shaikha_ahmed@outlook.com,False
+3270,Saima,Rashid,Medical Assistant,3,Pakistani,2017-03-25,Night,saima68@protonmail.com,True
+3271,Reem,Al Shehhi,Physical Therapist,12,UAE,2016-10-05,Day,ralshehhi@yahoo.com,True
+3272,Yasmin,Al Hosani,Licensed Practical Nurse,11,UAE,2017-11-21,Evening,yasmin13@yahoo.com,True
+3273,Neha,Singh,Physical Therapist,9,Indian,2022-08-09,Night,nehasingh@hotmail.com,True
+3274,Safiya,Al Nahyan,Case Manager,8,UAE,2021-01-29,Day,safiyaalnahyan@icloud.com,True
+3275,Karen,Jackson,Lab Technician,7,American,2023-08-21,Day,karenjackson@yahoo.com,True
+3276,Zainab,Qureshi,Lab Technician,12,Pakistani,2015-05-01,Rotating,zainab_qureshi@yahoo.com,True
+3277,Pooja,Al Nahyan,Pharmacist,2,Other,2016-06-22,Day,pooja88@yahoo.com,True
+3278,Rana,Hassan,Respiratory Therapist,2,Egyptian,2022-09-19,Rotating,rana27@ymail.com,True
+3279,Salma,Al Majali,Patient Care Technician,3,Jordanian,2016-11-01,Day,salma_almajali@ymail.com,False
+3280,Muna,Rashid,Pharmacist,2,Other,2016-12-26,Evening,muna66@hotmail.com,True
+3281,Elizabeth,Jones,Licensed Practical Nurse,10,Other,2023-03-31,Rotating,elizabeth_jones@icloud.com,False
+3282,Aisha,Ali,Unit Coordinator,8,Egyptian,2024-04-10,Evening,aisha41@icloud.com,True
+3283,Mariam,Ahmad,Licensed Practical Nurse,4,Jordanian,2018-04-07,Night,mahmad@hotmail.com,True
+3284,Isha,Gupta,Unit Coordinator,11,Indian,2020-01-25,Day,isha.gupta@outlook.com,True
+3285,Layla,Brown,Occupational Therapist,6,Other,2020-01-21,Day,layla68@protonmail.com,True
+3286,Naveen,Hassan,Receptionist,2,Other,2016-04-12,Rotating,nhassan@gmail.com,True
+3287,Isha,Hussain,Radiology Technician,7,Indian,2021-03-04,Day,ihussain@icloud.com,True
+3288,Karim,Khalifa,Licensed Practical Nurse,7,Other,2018-06-15,Day,kkhalifa@protonmail.com,True
+3289,Fatima,Reddy,Registered Nurse,8,Other,2020-07-31,Evening,fatima.reddy@icloud.com,True
+3290,Noor,Al Muhairi,Occupational Therapist,8,UAE,2015-11-22,Night,nooralmuhairi@icloud.com,True
+3291,Dina,Ahmed,Radiology Technician,3,Egyptian,2015-08-14,Night,dinaahmed@ymail.com,True
+3292,Mona,Mohamed,Licensed Practical Nurse,2,Egyptian,2019-09-04,Evening,mmohamed@icloud.com,True
+3293,Angel,Mendoza,Unit Coordinator,12,Filipino,2021-06-29,Day,angel.mendoza@ymail.com,True
+3294,Sunita,Mehta,Medical Assistant,5,Indian,2020-04-12,Day,smehta@yahoo.com,True
+3295,Hina,Ahmed,Receptionist,10,Pakistani,2023-03-08,Evening,hina.ahmed@hotmail.com,True
+3296,Laila,Abdelrahman,Case Manager,5,Egyptian,2020-11-22,Night,labdelrahman@outlook.com,True
+3297,Mehwish,Rashid,Radiology Technician,10,Pakistani,2017-08-11,Rotating,mehwish.rashid@gmail.com,True
+3298,Tarek,Abdelrahman,Occupational Therapist,1,Egyptian,2018-09-29,Day,tarekabdelrahman@gmail.com,True
+3299,Miguel,Lopez,Administrative Assistant,9,Filipino,2021-03-02,Day,miguel.lopez@protonmail.com,True
+3300,Priya,Reddy,Pharmacist,6,Indian,2024-05-08,Day,priya_reddy@hotmail.com,True
+3301,Joy,Castillo,Case Manager,8,Filipino,2023-10-17,Rotating,joy17@yahoo.com,True
+3302,Maria,Torres,Case Manager,6,Filipino,2015-09-29,Evening,maria.torres@yahoo.com,False
+3303,Mai,Said,Radiology Technician,10,Egyptian,2016-04-23,Evening,msaid@protonmail.com,True
+3304,Divya,Kapoor,Unit Coordinator,5,Indian,2017-06-04,Night,divya.kapoor@yahoo.com,True
+3305,Sandra,Jackson,Registered Nurse,8,British,2020-08-10,Day,sandra_jackson@protonmail.com,True
+3306,Vikram,Khan,Lab Technician,4,Indian,2023-02-15,Day,vikram59@gmail.com,True
+3307,Dana,Verma,Unit Coordinator,1,Other,2016-02-27,Night,dverma@gmail.com,True
+3308,Aisha,Nair,Pharmacist,5,Indian,2018-02-07,Night,aisha.nair@yahoo.com,True
+3309,Bilal,Al Hashimi,Receptionist,4,UAE,2021-01-31,Day,balhashimi@outlook.com,False
+3310,Barbara,Williams,Administrative Assistant,10,American,2018-10-19,Night,barbarawilliams@gmail.com,True
+3311,Jose,Cruz,Occupational Therapist,7,Filipino,2017-01-03,Rotating,jose_cruz@icloud.com,True
+3312,Ajay,Singh,Unit Coordinator,10,Indian,2016-06-23,Day,ajay_singh@gmail.com,True
+3313,Joy,Ramirez,Pharmacy Technician,4,Filipino,2016-08-11,Evening,jramirez@yahoo.com,True
+3314,Christine,Sanchez,Patient Care Technician,1,Filipino,2015-09-25,Night,christine_sanchez@hotmail.com,True
+3315,Nikhil,Gupta,Receptionist,7,Indian,2024-03-02,Rotating,ngupta@icloud.com,True
+3316,Betty,White,Occupational Therapist,4,American,2021-12-18,Day,betty_white@hotmail.com,True
+3317,Rania,Rashid,Occupational Therapist,10,UAE,2023-10-30,Day,raniarashid@outlook.com,True
+3318,Salma,Mohammed,Patient Care Technician,2,UAE,2021-08-22,Night,salma51@gmail.com,True
+3319,Mariam,Al Nahyan,Receptionist,11,UAE,2024-02-17,Night,malnahyan@hotmail.com,True
+3320,Khalid,Al Maktoum,Registered Nurse,3,UAE,2022-05-30,Day,kalmaktoum@hotmail.com,True
+3321,Arun,Joshi,Administrative Assistant,7,Indian,2023-01-19,Evening,arun.joshi@icloud.com,True
+3322,Yasmin,Malhotra,Licensed Practical Nurse,6,Other,2021-02-26,Evening,yasmin10@ymail.com,False
+3323,Mohammed,Al Zaabi,Occupational Therapist,12,UAE,2021-08-14,Day,mohammed_alzaabi@hotmail.com,True
+3324,Mehwish,Malik,Pharmacist,9,Pakistani,2019-04-25,Rotating,mehwish_malik@outlook.com,True
+3325,Ahmed,Al Marri,Registered Nurse,3,Other,2023-02-02,Evening,ahmed_almarri@outlook.com,True
+3326,Joy,Perez,Radiology Technician,8,Filipino,2020-09-17,Night,joy_perez@yahoo.com,True
+3327,Vishal,Iyer,Billing Specialist,7,Indian,2021-02-15,Night,vishal.iyer@icloud.com,True
+3328,Sunita,Gupta,Billing Specialist,8,Indian,2020-10-18,Day,sunita.gupta@outlook.com,True
+3329,Dana,Abdullah,Administrative Assistant,10,Jordanian,2015-08-05,Evening,dana.abdullah@hotmail.com,True
+3330,Sana,Miller,Respiratory Therapist,5,Other,2018-03-30,Day,sana98@protonmail.com,True
+3331,Andrew,White,Radiology Technician,10,British,2015-07-31,Night,andrew47@gmail.com,True
+3332,Jawaher,Rashid,Billing Specialist,5,UAE,2016-06-26,Night,jrashid@gmail.com,True
+3333,Sara,El Sayed,Respiratory Therapist,3,Egyptian,2017-12-06,Rotating,sara_elsayed@outlook.com,True
+3334,Saeed,Al Maktoum,Lab Technician,8,Other,2023-06-11,Evening,saeedalmaktoum@protonmail.com,True
+3335,Michael,Reyes,Billing Specialist,2,Filipino,2015-08-04,Day,michael_reyes@yahoo.com,True
+3336,Safiya,Johnson,Physical Therapist,8,Other,2017-12-11,Day,safiya.johnson@yahoo.com,False
+3337,Isha,Patel,Receptionist,9,Indian,2022-02-23,Day,isha65@protonmail.com,True
+3338,Vikram,Rao,Physical Therapist,8,Indian,2023-09-02,Night,vikram40@ymail.com,True
+3339,Pooja,Malhotra,Registered Nurse,11,Indian,2015-02-04,Rotating,pooja_malhotra@gmail.com,True
+3340,Michelle,Ramos,Pharmacist,1,Filipino,2015-04-08,Night,michelle17@protonmail.com,True
+3341,Sara,Khalifa,Receptionist,2,UAE,2021-10-12,Day,sara94@ymail.com,False
+3342,Sunita,Malhotra,Unit Coordinator,11,Other,2015-11-07,Night,sunita_malhotra@protonmail.com,True
+3343,David,Williams,Billing Specialist,1,British,2019-04-17,Day,dwilliams@ymail.com,True
+3344,Sneha,Hussain,Physical Therapist,3,Indian,2022-03-28,Night,sneha28@ymail.com,True
+3345,Samir,Farouk,Receptionist,1,Egyptian,2015-10-26,Day,samir_farouk@gmail.com,True
+3346,Safiya,Al Mazrouei,Physical Therapist,5,UAE,2016-09-12,Rotating,safiya60@gmail.com,True
+3347,Barbara,Jones,Medical Assistant,9,Other,2017-07-14,Day,barbara_jones@gmail.com,True
+3348,Meera,Jones,Licensed Practical Nurse,11,Other,2022-04-04,Day,mjones@gmail.com,True
+3349,Richard,Garcia,Licensed Practical Nurse,7,British,2022-05-30,Day,richard_garcia@gmail.com,True
+3350,Sandeep,Nair,Lab Technician,1,Indian,2017-03-01,Day,sandeepnair@hotmail.com,True
+3351,Ashley,Thompson,Unit Coordinator,1,American,2015-06-01,Day,ashley.thompson@hotmail.com,True
+3352,Sandra,Thompson,Lab Technician,12,American,2021-07-01,Day,sandra.thompson@protonmail.com,True
+3353,Lovely,Reyes,Pharmacy Technician,12,Filipino,2022-04-11,Day,lovely.reyes@yahoo.com,True
+3354,Hind,Al Maktoum,Medical Assistant,2,UAE,2016-04-12,Night,hindalmaktoum@gmail.com,True
+3355,Sana,Malhotra,Receptionist,11,Indian,2021-06-17,Night,sanamalhotra@ymail.com,True
+3356,Youssef,Al Shamsi,Occupational Therapist,3,UAE,2022-10-23,Day,youssef_alshamsi@outlook.com,False
+3357,Bassam,Hassan,Physical Therapist,3,UAE,2015-03-06,Evening,bassam.hassan@gmail.com,True
+3358,Muna,Al Marri,Occupational Therapist,12,UAE,2024-01-21,Rotating,munaalmarri@outlook.com,True
+3359,Amna,Al Kaabi,Licensed Practical Nurse,10,UAE,2017-01-07,Rotating,amna.alkaabi@protonmail.com,True
+3360,Nisha,Iyer,Pharmacist,2,Indian,2020-12-11,Evening,niyer@ymail.com,True
+3361,Asad,Sheikh,Licensed Practical Nurse,4,Pakistani,2016-04-06,Rotating,asad_sheikh@hotmail.com,True
+3362,Michael,Lopez,Pharmacist,7,Filipino,2017-10-26,Day,michael.lopez@gmail.com,True
+3363,Omar,Martin,Receptionist,2,Other,2017-08-21,Rotating,omar85@yahoo.com,True
+3364,Amal,Ahmad,Receptionist,6,Jordanian,2017-07-21,Day,amalahmad@hotmail.com,True
+3365,Aisha,Al Qubaisi,Lab Technician,4,UAE,2021-11-01,Night,aalqubaisi@outlook.com,True
+3366,Shaikha,Al Blooshi,Case Manager,3,UAE,2015-05-12,Night,salblooshi@outlook.com,True
+3367,Saima,Butt,Administrative Assistant,10,Pakistani,2016-10-04,Rotating,saima91@outlook.com,True
+3368,Khaled,Hussein,Pharmacist,10,Egyptian,2020-04-23,Rotating,khaled.hussein@protonmail.com,True
+3369,David,Patel,Lab Technician,10,Other,2015-01-21,Day,david.patel@hotmail.com,True
+3370,Nadia,Rashid,Receptionist,8,Pakistani,2020-07-21,Day,nadia.rashid@protonmail.com,True
+3371,Ravi,Kumar,Medical Assistant,1,Other,2020-05-19,Night,ravi_kumar@ymail.com,True
+3372,Nada,Ibrahim,Physical Therapist,3,Egyptian,2023-11-10,Evening,nada_ibrahim@protonmail.com,True
+3373,Prakash,Al Shamsi,Administrative Assistant,7,Other,2023-06-11,Day,prakash88@icloud.com,True
+3374,Matthew,Johnson,Respiratory Therapist,1,British,2016-03-30,Day,matthew69@gmail.com,True
+3375,Mariam,Al Hashimi,Pharmacist,3,UAE,2018-10-03,Day,mariam_alhashimi@protonmail.com,False
+3376,Dina,Kamal,Case Manager,6,Egyptian,2017-12-31,Night,dkamal@gmail.com,True
+3377,Isha,Kumar,Patient Care Technician,12,Indian,2020-12-18,Night,ikumar@hotmail.com,True
+3378,Jennifer,Miller,Unit Coordinator,2,American,2015-11-25,Day,jmiller@gmail.com,True
+3379,Noor,Al Shamsi,Pharmacist,9,UAE,2022-01-13,Day,noor63@outlook.com,True
+3380,Priya,Joshi,Pharmacist,2,Indian,2015-04-01,Evening,priya39@protonmail.com,True
+3381,Mona,Hussein,Unit Coordinator,8,Egyptian,2018-05-30,Night,monahussein@ymail.com,True
+3382,Fatima,Malik,Respiratory Therapist,5,Pakistani,2020-02-11,Evening,fatimamalik@protonmail.com,True
+3383,Jamal,Khalifa,Lab Technician,3,UAE,2017-09-01,Day,jamal50@outlook.com,True
+3384,Amit,Malhotra,Respiratory Therapist,3,Indian,2019-03-08,Night,amit30@yahoo.com,True
+3385,Shamsa,Al Shamsi,Unit Coordinator,6,UAE,2016-10-01,Day,shamsa79@yahoo.com,True
+3386,Swati,Gupta,Unit Coordinator,6,Indian,2022-09-23,Day,swati.gupta@outlook.com,True
+3387,Bilal,Mohammed,Pharmacy Technician,8,UAE,2019-01-03,Day,bilal17@protonmail.com,True
+3388,Nida,Shah,Registered Nurse,2,Pakistani,2021-01-14,Rotating,nida.shah@icloud.com,True
+3389,Iqra,Ahmed,Respiratory Therapist,7,Pakistani,2016-08-28,Rotating,iahmed@hotmail.com,True
+3390,Ananya,Ali,Medical Assistant,4,Indian,2023-03-01,Evening,ananya_ali@yahoo.com,True
+3391,Huda,Al Nasser,Medical Assistant,3,Jordanian,2017-05-01,Day,halnasser@gmail.com,False
+3392,Fatma,Abdelrahman,Billing Specialist,7,Egyptian,2016-12-17,Night,fatmaabdelrahman@outlook.com,True
+3393,Anjali,Joshi,Administrative Assistant,8,Indian,2021-04-09,Rotating,anjali.joshi@ymail.com,True
+3394,Hind,Hassan,Patient Care Technician,2,UAE,2022-05-02,Night,hind_hassan@outlook.com,True
+3395,Carlos,Ramos,Patient Care Technician,2,Filipino,2021-09-19,Rotating,carlos_ramos@icloud.com,True
+3396,Zainab,Mohammed,Receptionist,6,UAE,2020-09-30,Rotating,zmohammed@outlook.com,True
+3397,Zainab,Al Shamsi,Respiratory Therapist,3,UAE,2015-08-05,Day,zalshamsi@gmail.com,True
+3398,Iqra,Shah,Radiology Technician,2,Pakistani,2021-09-18,Rotating,ishah@ymail.com,True
+3399,Neha,Hussain,Receptionist,9,Other,2021-07-03,Day,neha.hussain@outlook.com,True
+3400,Aisha,Reddy,Receptionist,4,Indian,2016-09-25,Night,aisha34@icloud.com,True
+3401,Hala,Miller,Unit Coordinator,2,Other,2016-04-22,Rotating,hala_miller@yahoo.com,True
+3402,Ritu,Khan,Case Manager,3,Indian,2022-12-17,Day,ritukhan@outlook.com,True
+3403,Khalid,Al Blooshi,Lab Technician,2,UAE,2019-10-07,Night,khalid.alblooshi@gmail.com,True
+3404,Michael,Johnson,Licensed Practical Nurse,8,British,2016-05-02,Evening,michael.johnson@yahoo.com,True
+3405,Michelle,Miller,Pharmacist,3,British,2022-07-09,Day,michellemiller@ymail.com,True
+3406,Dana,Al Kaabi,Pharmacy Technician,9,UAE,2021-05-24,Day,dana.alkaabi@icloud.com,True
+3407,Hani,Saeed,Registered Nurse,12,UAE,2016-02-09,Evening,hani_saeed@yahoo.com,True
+3408,Sara,Al Kaabi,Respiratory Therapist,7,UAE,2019-10-04,Day,sara_alkaabi@gmail.com,True
+3409,Isha,Gupta,Patient Care Technician,6,Indian,2022-11-26,Day,isha.gupta@yahoo.com,True
+3410,Shreya,Shah,Pharmacy Technician,9,Indian,2019-07-27,Day,shreyashah@ymail.com,True
+3411,Nisha,Khalifa,Registered Nurse,11,Other,2020-07-06,Night,nisha_khalifa@icloud.com,True
+3412,Faisal,Khalifa,Receptionist,12,UAE,2016-11-22,Day,fkhalifa@outlook.com,True
+3413,William,Jackson,Billing Specialist,12,Other,2023-08-04,Night,william_jackson@yahoo.com,True
+3414,Rania,Farouk,Lab Technician,8,Egyptian,2016-03-18,Day,rania_farouk@outlook.com,True
+3415,Ahmed,Mohammed,Medical Assistant,8,UAE,2022-08-09,Day,ahmed_mohammed@icloud.com,True
+3416,Sara,Saeed,Medical Assistant,11,UAE,2023-06-06,Night,sara_saeed@outlook.com,True
+3417,Mahnoor,Qureshi,Registered Nurse,1,Pakistani,2019-10-29,Evening,mahnoor_qureshi@hotmail.com,True
+3418,Anjali,Reddy,Administrative Assistant,12,Indian,2016-11-03,Night,areddy@protonmail.com,True
+3419,Ashley,Thompson,Patient Care Technician,8,British,2021-04-21,Evening,ashley.thompson@hotmail.com,True
+3420,Heba,Nassar,Case Manager,1,Egyptian,2015-04-26,Night,hnassar@yahoo.com,True
+3421,Mona,Said,Receptionist,7,Egyptian,2018-11-14,Evening,msaid@gmail.com,True
+3422,Salma,Al Suwaidi,Medical Assistant,5,UAE,2016-04-13,Day,salma12@yahoo.com,True
+3423,Hope,Perez,Billing Specialist,1,Filipino,2022-10-21,Night,hperez@hotmail.com,True
+3424,Vishal,Kumar,Pharmacist,6,Indian,2020-07-27,Night,vkumar@outlook.com,True
+3425,Riya,Singh,Pharmacist,5,Indian,2017-12-22,Day,riya_singh@ymail.com,True
+3426,Jalal,Al Masri,Case Manager,5,Jordanian,2015-10-03,Night,jalal_almasri@hotmail.com,True
+3427,Karen,Jackson,Administrative Assistant,7,American,2022-06-10,Night,karen_jackson@hotmail.com,True
+3428,Mahnoor,Raza,Registered Nurse,11,Pakistani,2022-11-20,Night,mahnoor33@hotmail.com,True
+3429,Karen,Iyer,Occupational Therapist,10,Other,2023-02-24,Night,kareniyer@yahoo.com,True
+3430,Shamsa,Al Marri,Occupational Therapist,7,UAE,2018-07-29,Evening,shamsaalmarri@ymail.com,True
+3431,Sunita,Kumar,Physical Therapist,4,Other,2016-04-10,Day,sunitakumar@ymail.com,True
+3432,Samina,Chaudhry,Licensed Practical Nurse,4,Pakistani,2016-10-14,Day,schaudhry@ymail.com,True
+3433,Jose,Ramirez,Registered Nurse,1,Filipino,2015-12-10,Day,jose.ramirez@hotmail.com,True
+3434,Mary,Garcia,Pharmacy Technician,2,Filipino,2021-05-27,Rotating,mary25@protonmail.com,True
+3435,Sunita,Jackson,Medical Assistant,4,Other,2021-09-22,Day,sjackson@ymail.com,True
+3436,Divya,Mehta,Pharmacist,3,Indian,2016-03-13,Day,divya_mehta@hotmail.com,True
+3437,Heba,Ali,Case Manager,9,Egyptian,2019-10-02,Night,hali@ymail.com,False
+3438,Shreya,Sharma,Licensed Practical Nurse,12,Indian,2022-06-05,Rotating,shreyasharma@yahoo.com,True
+3439,Fatima,Kumar,Pharmacy Technician,8,Indian,2019-05-11,Day,fkumar@yahoo.com,True
+3440,Ziad,Hassan,Unit Coordinator,11,Other,2018-07-23,Evening,ziad_hassan@ymail.com,True
+3441,Betty,Hernandez,Occupational Therapist,6,Other,2023-01-17,Night,bettyhernandez@protonmail.com,True
+3442,Maha,Mohammed,Case Manager,8,UAE,2022-10-18,Day,mahamohammed@protonmail.com,True
+3443,Luis,Lopez,Case Manager,10,Filipino,2015-12-03,Day,luis41@protonmail.com,False
+3444,Jennifer,Mehta,Unit Coordinator,8,Other,2023-03-31,Day,jennifer32@ymail.com,True
+3445,Naveen,Reddy,Physical Therapist,7,Indian,2024-05-11,Evening,naveen.reddy@gmail.com,False
+3446,Rosa,Sanchez,Pharmacist,5,Filipino,2022-11-12,Evening,rosa_sanchez@icloud.com,True
+3447,Hamad,Al Kaabi,Receptionist,1,UAE,2023-01-22,Night,hamad_alkaabi@gmail.com,True
+3448,Hind,Rashid,Billing Specialist,5,UAE,2023-05-16,Night,hind_rashid@ymail.com,True
+3449,Maha,Ahmed,Pharmacist,7,UAE,2017-01-08,Day,maha.ahmed@yahoo.com,False
+3450,Amna,Al Ketbi,Unit Coordinator,2,UAE,2015-02-12,Night,amna_alketbi@protonmail.com,True
