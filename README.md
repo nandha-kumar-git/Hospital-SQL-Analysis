@@ -44,7 +44,21 @@ Hospital-SQL-Analysis/
 |     └── 05_Business_Analysis.sql
 |     └── 06_Advanced_SQL_Analysis.sql      
 ├── screenshots/                           
-│   
+│     └── 01_Data_rows_count
+│     └── 02_Gender discrepencies updated
+│     └── 03_Status updated
+│     └── 04_Hospital master stat
+│     └── 05_Appointment status distribution
+│     └── 06_Dept wise avg duration
+│     └── 07_Top reasons for visit
+│     └── 08_Doc dept wise appt count
+│     └── 09_Payment status
+│     └── 10_Payer wise payment status
+│     └── 11_ Dept wise payment status
+│     └── 12_ Dept wise no show rate
+│     └── 13_ Frequently visiting pts
+│     └── 14_ Dept wise revenue ranking
+│     └── 15_ Dept wise top 3 docs
 ├── docs/
-│   └── ER_Diagram.png                      # Entity-Relationship diagram
+│   └── ER_Diagram.png                      
 └── README.md
